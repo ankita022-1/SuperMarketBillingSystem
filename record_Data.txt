@@ -1,0 +1,26 @@
+--------------------------Details of customer---------------------
+Name : Neha		Mobile number : 192839724
+-------------------------Details of products------------------------
+code                Name                cost            Quantity            Discount
+1000               shirt                 800                   1                  10
+1001               jeans                2000                   2                  25
+1002               scarf                 400                   1                   0
+Total Cost before discount : Rs 5200
+Total Discount : Rs 1080
+Total cost after discount :Rs 4120
+--------------------------Details of customer---------------------
+Name : Sneha		Mobile number : 19384723
+-------------------------Details of products------------------------
+code                Name                cost            Quantity            Discount
+1003         AsianPaints                3000                   5                  21
+Total Cost before discount : Rs 15000
+Total Discount : Rs 3150
+Total cost after discount :Rs 11850
+--------------------------Details of customer---------------------
+Name : Rohan		Mobile number : 39841392
+-------------------------Details of products------------------------
+code                Name                cost            Quantity            Discount
+1003               Watch                5000                   1                  25
+Total Cost before discount : Rs 5000
+Total Discount : Rs 1250
+Total cost after discount :Rs 3750

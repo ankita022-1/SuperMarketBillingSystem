@@ -1,0 +1,13 @@
+--------------------------Details of customer---------------------
+Name : Rohan		Mobile number : 39841392
+-------------------------Details of products------------------------
+code                Name                cost            Quantity            Discount
+1003               Watch                5000                   1                  25
+Total Cost before discount : Rs 5000
+Total Discount : Rs 1250
+Total cost after discount : RS 3750
+money given by customer : Rs 4000
+Please return Rs 250 to the customer
+
+________________________________________THANKYOU_________________________________________
+
